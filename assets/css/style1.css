@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#body {
+  background-color: #12121a;
+}
+.hero {
+  padding: 100px;
+  /* font-family: 'Caveat', cursive; */
+}
+.gfi548, .dsh264 {
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.W {
+  font-size: 72px;
+}
+.elcome {
+  font-size: 36px;
+}
+.shortcut {
+  font-family: 'Times New Roman', Times, serif;
+}
+/* .logo {
+    width: 200px;
+    height: 200px;
+    background-image: url(http://twths.org/wp/wp-content/uploads/2015/12/coldplay-a-head-full-of-dreams-album-art-560x560.jpg);
+    background-size: 100%;
+  } */
+.circle {
+    color: aqua;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-position: 50% 50%;
+    box-shadow: 0px 0px 20px -10px rgba(0,0,0,0.5);
+}
