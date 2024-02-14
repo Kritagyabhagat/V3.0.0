@@ -1,40 +1,92 @@
-@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap');
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-#body {
-  background-color: #12121a;
+
+.Navbar {
+  border-top: 5px solid red;
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  overflow: auto;
+  gap: 5px;
+  z-index: 99;
 }
-.hero {
+
+.n-content {
+  border: 2px solid blue;
+  padding: 10px;
+  width: 100%;
+  height: auto;
+  background-color: white;
+}
+
+.Coding {
+  transition-delay: 0s;
+}
+.Complier {
+  transition-delay: 0.1s;
+}
+.Doubt-solving {
+  transition-delay: 0.2s;
+}
+.Editor {
+  transition-delay: 0.3s;
+}
+.Maps {
+  transition-delay: 0.4s;
+}
+.News {
+  transition-delay: 0.5s;
+}
+.Other {
+  transition-delay: 0.6s;
+}
+.Ott-platforms {
+  transition-delay: 0.7s;
+}
+.Recharge {
+  transition-delay: 0.8s;
+}
+.Search-engines {
+  transition-delay: 0.9s;
+}
+.Shopping {
+  transition-delay: 1s;
+}
+.Social {
+  transition-delay: 1.1s;
+}
+.Song {
+  transition-delay: 1.2s;
+}
+.Traveling {
+  transition-delay: 1.3s;
+}
+.Video-calling {
+  transition-delay: 1.4s;
+}
+.Connect {
+  transition-delay: 1.5s;
+}
+
+a {
+  color: black;
+  padding: 5px;
+}
+
+.coding {
   padding: 100px;
-  /* font-family: 'Caveat', cursive; */
+  color: blue;
+  letter-spacing: 40px;
 }
-.gfi548, .dsh264 {
-  text-transform: uppercase;
-  color: #ffffff;
+
+table>tbody>tr>td>a {
+  color: white;
+  letter-spacing: 0;
 }
-.W {
-  font-size: 72px;
-}
-.elcome {
-  font-size: 36px;
-}
-.shortcut {
-  font-family: 'Times New Roman', Times, serif;
-}
-/* .logo {
-    width: 200px;
-    height: 200px;
-    background-image: url(http://twths.org/wp/wp-content/uploads/2015/12/coldplay-a-head-full-of-dreams-album-art-560x560.jpg);
-    background-size: 100%;
-  } */
-.circle {
-    color: aqua;
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    background-position: 50% 50%;
-    box-shadow: 0px 0px 20px -10px rgba(0,0,0,0.5);
+
+.image-class {
+  height: 100px;
 }
