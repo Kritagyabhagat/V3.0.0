@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.facebook.com/kritagya.bhagat.5602/" target="blank"><img align="center" src="..." alt="Kritagya Bhagat" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/kritagya-bhagat-64b4b71a4/" target="blank"><img align="center" src="..." alt="Kritagya Bhagat" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/kritagyabhagat/" target="blank"><img align="center" src="..." alt="kritagyabhagat" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/kritagya.bhagat.5602/" target="blank"><img align="center" src="./assets/images/facebook.png" alt="Kritagya Bhagat" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/kritagya-bhagat-64b4b71a4/" target="blank"><img align="center" src="./assets/images/linkedin.png" alt="Kritagya Bhagat" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/kritagyabhagat/" target="blank"><img align="center" src="./assets/images/instagram.png" alt="kritagyabhagat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
