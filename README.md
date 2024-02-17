@@ -15,11 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.facebook.com/kritagya.bhagat.5602/" target="blank"><img align="center" src="./assets/images/facebook.png" alt="Kritagya Bhagat" height="50" width="60" /></a>
-  <a href="https://www.linkedin.com/in/kritagya-bhagat-64b4b71a4/" target="blank"><img align="center" src="./assets/images/linkedin.png" alt="Kritagya Bhagat" height="50" width="60" /></a>
-  <a href="https://www.instagram.com/kritagyabhagat/" target="blank"><img align="center" src="./assets/images/instagram.png" alt="kritagyabhagat" height="50" width="60" /></a>
+  <a href="https://www.facebook.com/kritagya.bhagat.5602/" target="blank"><img align="center" src="https://img.icons8.com/fluency/240/facebook-circled.png" alt="Kritagya Bhagat" height="50" width="60" /></a>
+  <a href="https://www.instagram.com/kritagyabhagat/" target="blank"><img align="center" src="https://img.icons8.com/fluency/240/instagram-new.png" alt="kritagyabhagat" height="50" width="60" /></a>
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="blank"><img align="center" src="https://img.icons8.com/fluency/240/gmail-new.png" alt="Kritagya bhagat" height="50" width="60" /></a>
+  <a href="https://www.linkedin.com/in/kritagya-bhagat-64b4b71a4/" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin-2--v1.png" alt="Kritagya Bhagat" height="50" width="60" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="" target="_blank" rel="noreferrer">
