@@ -1,4 +1,5 @@
-﻿<h1 align="center">Hi 👋, I'm Kritagya Bhagat </h1>
+﻿<div bgcolor="red">
+<h1 align="center">Hi 👋, I'm Kritagya Bhagat </h1>
 <h3 align="center">A frontend developer from India</h3>
 
 <p align="left"> </p>
@@ -36,3 +37,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kritagyabhagat&show_icons=true&locale=en&layout=compact" alt="Kritagyabhagat" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kritagyabhagat&show_icons=true&locale=en" alt="Kritagyabhagat" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kritagyabhagat&" alt="Kritagyabhagat" /></p>
+</div>
