@@ -1,6 +1,5 @@
 ﻿<div class="container">
-<!-- <h1 align="center">Hi 👋, I'm Kritagya Bhagat </h1> -->
-<h1>Hi there, my name is Kritagya Bhagat <div class="hi">👋</div></h1>
+<h1 align="center">Hi 👋, I'm Kritagya Bhagat </h1>
 <h3 align="center">A frontend developer from India</h3>
 
 <p align="left"> </p>
